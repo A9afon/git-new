@@ -1,4 +1,4 @@
 console rebase
 megre guina
 GPG key verification #2
-gpg --batch --edit-key USERID disable #2
+gpg --batch --edit-key USERID_CORRECT disable #3
