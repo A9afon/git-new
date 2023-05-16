@@ -1,3 +1,6 @@
 console rebase
 megre guina
-GPG key verification
+GPG key verification #2
+gpg --batch --edit-key USERID_CORRECT disable #3
+gpg --delete-key "Alexey Miloserdov"
+gpg --delete-secret-key "Alexey Miloserdov"
