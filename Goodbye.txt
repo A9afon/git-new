@@ -8,3 +8,4 @@ wrong goodbye
 Git GPG key
 squash
 git reset <hash_commit>
+Теперь все верно
