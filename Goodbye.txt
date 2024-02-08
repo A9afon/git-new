@@ -7,3 +7,5 @@ wrong goodbye
 4to to ewe
 Git GPG key
 squash
+git reset <hash_commit>
+Теперь все верно
